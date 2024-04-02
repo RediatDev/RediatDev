@@ -1,16 +1,123 @@
-### Hi there 👋
 
-<!--
-**RediatDev/RediatDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[](https://github.com/RediatDev/RediatDev/files/14839337/README.md)<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋🏾, I'm Rediat  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>A passionate Full Stack Web Developer based in India <a href="https://www.oneorigin.us/">
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
+### 📫 Like to meet me?
+
+Pick a slot 😊 if you'd like to meet me and chat about anything regarding the tech world 
+
+
+```javascript
+const Rediat = {
+    pronouns: "Redi" | "Red",
+    code: ["Javascript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        mobileApp: {
+            native: ["Biggner React Native developer"]
+        },
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO", "selenium", "cypress", ]
+    },
+    architecture: [ "Single page applications"],
+    currentFocus: "Finshing projects at hand",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C661%20hrs%2046%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1847-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 185.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 23 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits         ████░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+🌆 Daytime                43 commits        ██████████░░░░░░░░░░░░░░░   40.66 % 
+🌃 Evening                22 commits        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+🌙 Night                  19 commits         ███░░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+```
+📅 **I'm Most Productive on weekdays** 
+
+```text
+Monday                   12 commits         ███░░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Tuesday                  20 commits         ███░░░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Wednesday                21 commits         ████░░░░░░░░░░░░░░░░░░░░░   24.31 % 
+Thursday                 19 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Friday                   23 commits         ███░░░░░░░░░░░░░░░░░░░░░░   26.47 % 
+Saturday                 4 commits         ███░░░░░░░░░░░░░░░░░░░░░░   1.1 % 
+Sunday                   2 commits         █████░░░░░░░░░░░░░░░░░░░░   1.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia
+
+💬 Programming Languages: 
+TypeScript               6 hrs               ████████████████░░░░░░░░░  19.62 % 
+YAML                     1 hr        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+JSON                     1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JavaScript               96 hr             █░░░░░░░░░░░░░░░░░░░░░░░░   62.33 % 
+SQL                      5 hr             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+
+🔥 Editors: 
+VScode                every time       ████████████████████████░   100%
+
+
+💻 Operating System: 
+linux                      1 hrs 20 mins       █████████████████████████  20 %
+windows                    4 hrs 26 mins       █████████████████████████ 80 %
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               32 + repos (10 private)            ███████████░░░░░░░░░░░░░░   45.71 % 
+Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      6 repos (private)            ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Python                   4 repos (private)             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+TypeScript               4 repos  (private)            █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+```
+
+
+
+
+ Last Updated on 2020 
+<!--END_SECTION:waka-->
+
+
+
+
