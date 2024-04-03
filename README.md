@@ -8,29 +8,33 @@
 
 
 ### 📫 Like to meet me?
-
-Pick a slot 😊 if you'd like to meet me and chat about anything regarding the tech world 
-
+Alrighty then, buckle up and let's schedule some techy chit-chat! and let's dive into the world of ones and zeros together! 😄🚀
 
 ```javascript
 const Rediat = {
-    pronouns: "Redi" | "Red",
+    pronouns: "Redi",
     code: ["Javascript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: ["Full Stack Web Development","devOps"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
+        },
+  frontEnd: {
+            js: ["React"],
         },
         mobileApp: {
             native: ["Biggner React Native developer"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "cypress", ]
+        misc: ["Firebase", "Socket.IO", "selenium", "cypress", ],
+        automationTool : ["Selenium"]
+        testingTool : ["Cypress.io"]
     },
     architecture: [ "Single page applications"],
     currentFocus: "Finshing projects at hand",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    Reality : "Always be happy when you encounter an error 🫢 in bright red—there 🔴's a solution waiting to be discovered out there somewhere 👍!"
 };
 ```
 
