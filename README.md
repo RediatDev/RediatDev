@@ -50,7 +50,7 @@ const Rediat = {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 23 Private Repositories 
  > 
