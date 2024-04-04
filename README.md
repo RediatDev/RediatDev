@@ -12,7 +12,6 @@ Alrighty then, buckle up and let's schedule some techy chit-chat! and let's dive
 
 ```javascript
 const Rediat = {
-    pronouns: "Redi",
     code: ["Javascript", "Python", "Java"],
     askMeAbout: ["Full Stack Web Development","devOps"],
     technologies: {
