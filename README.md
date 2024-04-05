@@ -12,14 +12,14 @@ Alrighty then, buckle up and let's schedule some techy chit-chat! and let's dive
 
 ```javascript
 const Rediat = {
-    code: ["Javascript", "Python", "Java"],
+    code: ["Javascript", "Python(moderate)", "Java(moderate)"],
     askMeAbout: ["Full Stack Web Development","devOps"],
     technologies: {
-        backEnd: {
+ ** backEnd**: {
             js: ["Node", "Express"],
         },
-  frontEnd: {
-            js: ["React"],
+**  frontEnd**: {
+            js: ["React", "Next"],
         },
         mobileApp: {
             native: ["Biggner React Native developer"]
