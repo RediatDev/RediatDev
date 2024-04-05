@@ -26,7 +26,7 @@ const Rediat = {
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "cypress", ],
+        misc: ["Firebase", "Socket.IO", "selenium" ],
         automationTool : ["Selenium"],
         testingTool : ["Cypress.io"]
     },
