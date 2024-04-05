@@ -15,10 +15,10 @@ const Rediat = {
     code: ["Javascript", "Python(moderate)", "Java(moderate)"],
     askMeAbout: ["Full Stack Web Development","devOps"],
     technologies: {
- ** backEnd**: {
+ backEnd: {
             js: ["Node", "Express"],
         },
-**  frontEnd**: {
+ frontEnd: {
             js: ["React", "Next"],
         },
         mobileApp: {
